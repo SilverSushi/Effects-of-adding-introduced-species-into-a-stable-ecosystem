@@ -7,6 +7,8 @@ Chauvet, E., Paullet, J. E., Previte, J. P., &amp; Walls, Z. (2002). A Lotka-Vol
 Devireddy, L. (2016, June 6). Extending the lotka-volterra equations. University of Washington. Retrieved September 16, 2022, from https://sites.math.washington.edu/~morrow/336_16/2016papers/lalith.pdf   
 
 Added variables:
-Enviormental Resistance, Generalized food chain, natural disasters, introduced speices, symbiotic relationship 
+Generalized food chain, natural disasters, introduced speices, symbiotic relationship 
+Generlaized food chain as listed here: 
+https://www.researchgate.net/figure/Generalized-food-web-with-links-depicting-known--and-probable------trophic_fig3_232055354
 
 suggested idea: what would happen if we eradicated all the mosiquitos
